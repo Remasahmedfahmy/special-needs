@@ -1,0 +1,88 @@
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Rubik", sans-serif;
+    }
+    .row .columns {float:right;}
+    .row .columns:last-child {float:left;}
+    body, p, td, span {text-align:right; }
+    p, li { font-size:15pt; }
+
+
+    .social-links {float:left;}
+    .social-links a:link, .social-links a:visited { margin-left:0px;margin-right:5px;line-height:35px;}
+    .social-links a:hover { background:#F7F52F;color:#2c4d9a;}
+
+    .arabic {float:right; text-align:left; }
+    .arabic a:link, .arabic a:visited { font-family: 'Roboto'; text-align:left;}
+
+    .contact-header {float:left;text-align:left; padding:30px 0px 25px 20px; }
+    .contact-header span {direction:ltr;margin-left:0px;margin-right:10px;padding-left:0px;padding-right:10px;}
+
+    .logo img {float:right; }
+    .logo span {line-height:35px;padding-left:0px;padding-right:30px;padding-top:30px;width:180px;float:right;font-size:18px;font-family: 'Hacen_Liner_Print-out_Light'}
+    .logo span strong {font-size:40px;font-weight:800;font-family: 'Hacen_Liner_Screen';}
+
+    .menu-left{ 
+        margin-left: -23%;
+        width: 123%;   
+    }
+    .main-menu a:link, .main-menu a:visited {font-family: 'Hacen_Liner_Screen';padding:0px 26px 0px 0px;font-size:18px;float:right;}
+    .main-menu a:first-child {padding-right:45px;}
+    .welcome-text h1{font-family: 'Hacen_Liner_Screen', serif; font-size:40px;}
+
+    .theme-default .nivo-caption h2 {direction:rtl;font-family: 'Hacen_Liner_Screen', serif;font-size: 30px;}
+    .theme-default .nivo-caption p { direction:rtl;font-family: 'Hacen_Liner_Print-out_Light';font-size: 18px;}
+
+    .read-more1 a:link, .read-more1 a:visited, .read-more a:link, .read-more a:visited {font-family: 'Hacen_Liner_Screen', serif; font-size:20px;}
+
+    .rounded-image h3{ font-family: 'Hacen_Liner_Screen'; font-size:23px; }
+    .rounded-image p{ font-size:18px;  }
+
+    .news-list .columns {background-position:right center;}
+    .news-list img {float:right;margin-right:0px;margin-left:10px;}
+    .news-text{font-size:16px;line-height:20px;}
+    .read-more2 a:link, .read-more2 a:visited {font-family: 'Hacen_Liner_Screen', serif; font-size:18px;}
+
+    .welcome h2, .parallax  h1, .parallax  span {font-family: 'Hacen_Liner_Screen', serif;font-size:35px; }
+
+    .footer-main h3{font-family: 'Hacen_Liner_Screen', serif; font-size:20px; }
+    .footer-menu {float:right;}
+    .footer-menu a:link, .footer-menu a:visited {font-family: 'Hacen_Liner_Print-out_Light', serif; font-size:18px;line-height:32px;}
+    .article-bg{ text-align:right;font-size:18px;}
+    .article-bg a {display:inline-block;margin-top:10px;}
+
+    .footer-copy{float:right;}
+    .design{ text-align:left;}
+
+    .service-head {font-family: 'Hacen_Liner_Screen', serif; font-size:25px;}
+    .sidemenu a:link, .sidemenu a:visited {font-size:18px;}
+
+    .advisor-inner  a:link, .advisor-inner  a:visited {font-family: 'Hacen_Liner_Screen', serif; font-size:25px;text-align:right;}
+    .advisor-inner  a .fa { padding-right:0px;padding-left:5px; }
+
+    .page-title {font-family: 'Hacen_Liner_Screen', serif; font-size:35px;}
+
+    .share-box {float:left;}
+    .share-box h4 { font-family: 'Hacen_Liner_Screen', sans-serif;float:right;padding-left:20px;}
+
+    .news-date, .sidemenu span {font-family: 'Roboto';}
+    .news-date {float:left;}
+
+    .video-item {float:right !important;}
+    .mfp-counter {direction:ltr;}
+    #portfolio li {float: right !important;}
+
+    .instagram-main img {float:right;}
+    .contact-box span, .footer-contacts span {direction:ltr;display:inline-block;font-family: 'Roboto';font-size:16px;}
+    .form-format button {font-family: 'Changa', sans-serif;}
+
+    .form-format label {font-size:17px;}
+
+
+    .new-services {float:right !important;}
+        .new-services .div-img .new-service-contents h3 {
+        font-family: 'Hacen_Liner_Screen', serif;font-size:24px;}

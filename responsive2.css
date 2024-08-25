@@ -1,0 +1,252 @@
+.small-show {display:none;}
+@media all and (max-width:1024px)
+{
+	.main-menu a:link, .main-menu a:visited {padding:0px 0px 0px  30px;}
+	.logo span {padding-left:25px;}
+	
+	[data-carousel-3d] {width:110%;margin-left:-5%;}
+	[data-carousel-3d] [data-prev-button] {left:5%;}
+	[data-carousel-3d] [data-next-button] {right:5%;}
+
+}
+
+@media all and (max-width:990px)
+{
+	.main-menu a:link, .main-menu a:visited {padding:0px 0px 0px  28px;}
+}
+
+
+@media all and (max-width:980px)
+{
+	.main-menu a:link, .main-menu a:visited {padding:0px 0px 0px  3%;}
+	.footer-main .medium-10, .footer-main .medium-2 {width:100%;}
+	.footer-main .medium-10 {padding-top:40px;}
+	.footer-menu a:link, .footer-menu a:visited {line-height:12px;float:left;display:inline-block;padding:0px 20px;border-right:1px solid #6188cc;;}
+	.footer-menu a:first-child {padding-left:0px;}
+	.footer-menu a:last-child {border-right:0px;}
+	.footer-main {padding:30px 0 30px 0;}
+	.welcome-text h1 {font-size:30px;}
+	.news-list {margin-bottom:20px;}
+	.logo span {padding-left:20px;}
+
+}
+
+@media all and (max-width:920px)
+{
+	.main-menu a:link, .main-menu a:visited {font-size: 15px;}
+	.news-list {margin-bottom:15px;}
+	.theme-default .nivo-caption h2 {font-size:24px;}
+	.theme-default .nivo-caption p { font-size: 15px;}
+	.logo span {padding-left:15px;}
+	.share-box h4 {display:block;float:none;width:100%;}
+	
+	.slider-2-item .caption h4 {font-size: 120%;}
+	.slider-2-item .caption p {font-size: 120%;}
+	
+
+}
+
+@media all and (max-width:890px)
+{
+	.contact-header a {display:block;padding-bottom:10px;}
+	.contact-header {padding:10px 20px 25px 0;text-align:left;}
+	.menu-left{ padding-left:170px;}
+	.footer-menu a:link, .footer-menu a:visited {padding:0px 15px;}
+	
+	[data-carousel-3d] {width:120%;margin-left:-10%;}
+	[data-carousel-3d] [data-prev-button] {left:5%;}
+	[data-carousel-3d] [data-next-button] {right:5%;}
+
+}
+
+
+@media all and (max-width:880px)
+{
+	.logo {position:static;float:left;}
+	.logo img {height:130px;margin:10px;}
+	.arabic {width:50%;}
+	.main-menu a:link, .main-menu a:visited {display:inline-block;float:none;padding:0px 10px;}
+	.menu-left{ padding-left:0px;text-align:center;}
+	.news-text {padding:10px 5px 10px 0px}
+	.news-list img {min-height:auto;}
+}
+
+
+@media all and (max-width:850px)
+{
+	.welcome-text h1 {font-size:26px;}
+	.rounded-image h3{font-size:17px; padding:10px 0 0 0;}
+	.rounded-image p{font-size:14px;min-height:96px; }
+
+}
+
+@media all and (max-width:830px)
+{
+	.video-home {height:295px !important;}
+	.footer-menu a:link, .footer-menu a:visited {padding:0px 8px;}
+	.logo span {width:165px;}
+
+}
+
+@media all and (max-width:800px)
+{
+	.footer-menu a:link, .footer-menu a:visited {padding:0px 5px;}
+	.rounded-image .div-img {width:96%;margin:0px 2%}
+	.logo {width:auto;}
+	
+	.theme-default .nivo-caption h2 {font-size:17px;}
+	.theme-default .nivo-caption p { font-size: 13px;}
+
+	[data-carousel-3d] {width:140%;margin-left:-20%;}
+	[data-carousel-3d] [data-prev-button] {left:10%;}
+	[data-carousel-3d] [data-next-button] {right:10%;}
+}
+
+@media all and (max-width:768px)
+{
+	.footer-main .medium-10 .medium-4 {width:50%;}
+	.footer-main .medium-10 .medium-4:first-child  {width:100%;}
+	.footer-main .article-bg{ height:auto;margin-bottom:20px;}
+	.footer-menu a:link, .footer-menu a:visited {padding:0px 5px;}
+	.rounded-image .div-img {width:100%;margin:0px;}
+}
+
+@media all and (max-width:740px)
+{
+	.main-menu a:link, .main-menu a:visited {display:inline-block;float:none;padding:0px 5px;}
+	.footer-menu a:link, .footer-menu a:visited {padding:0px 9px;}
+	.logo span {padding-left:10px;padding-top:44px;width:140px;font-size:12px;}
+	.logo span strong {font-size:24px;}
+
+}
+
+@media all and (max-width:700px)
+{
+		.video-home {height:330px !important;}
+		.logo img {height:140;margin:20px 10px 0px 10px;}
+		.social-links {padding:15px 0 15px 0;}
+		.contact-header {padding:0px 5px 15px 10px; }
+		.social-links a:link, .social-links a:visited {margin-left:7px;}
+		.logo span {padding-left:10px;padding-top:50px;width:180px;font-size:14px;}
+		.logo span strong {font-size:27px;}
+		
+		[data-carousel-3d] {width:160%;margin-left:-30%;}
+		[data-carousel-3d] [data-prev-button] {left:15%;}
+		[data-carousel-3d] [data-next-button] {right:15%;}
+
+
+}
+
+@media all and (max-width:680px)
+{
+	.main-menu a:link, .main-menu a:visited {display:inline-block;float:none;padding:0px 5px;font-size:14px;}
+	.footer-menu a:link, .footer-menu a:visited {font-size:13px;padding:0px 6px;}
+	.logo span {padding-left:10px;padding-top:55px;width:140px;font-size:12px;}
+	.logo span strong {font-size:24px;}
+
+}
+
+@media all and (max-width:640px)
+{
+	#main-menu-btn {display:block;float:right;border:0px; padding-right:20px;}
+	.main-menu .columns {display:none;padding:0px;}
+		.main-menu a:link , .main-menu a:visited {display:block;float:none;text-align:left;font-size:17px;padding-left:20px;border:0px;border-bottom:1px solid #2C4D9A; line-height:40px;}
+	.main-menu a:first-child {border-top:1px solid #2C4D9A;}
+	.main-menu a:hover { color:#FAF445; }
+		.main-menu .small-show a:link, .main-menu .small-show a:visited {background:#2C4D9A;border-bottom:1px solid #272679;padding-left:40px;font-size:15px;}
+	
+	.welcome-text {padding:0.9375em 0px;}
+	.tree-pad {padding-top:30px;}
+	.read-more1 {padding-top:10px;}
+	.small-show {display:block;}
+	.small-hide {display:none;}
+	.rounded-image {padding-bottom:40px;}
+	.rounded-image .div-img, .rounded-image .div-img:hover {border:0px;}
+	.rounded-image img {border:10px solid #FFFC27;}
+	.rounded-image h3{  font-size:18px; }
+	.rounded-image p{font-size:15px; min-height:auto; }
+	
+	.footer-main .medium-2 {display:none;}
+	.news-list {padding:0.9375em;}
+	.parallax {	height: auto; padding:10px 0 60px 0;}
+	.parallax  h1{padding-top:50px;}
+	.footer-main {padding-top:0px;}
+	.footer-main .medium-10 {padding-top: 20px;}
+	
+	.footer-copy, .design {text-align:center;}
+	
+	.medium-6 .advisor-inner {margin-bottom:30px;}
+	.slider-2-item .caption p {display:none;}
+}
+
+@media all and (max-width:610px)
+{
+	.arabic {width:120px;}
+	[data-carousel-3d] [data-prev-button]:before, [data-carousel-3d] [data-next-button]:before {
+		-webkit-transform: scale(0.7); 
+	      -ms-transform: scale(0.7);
+          transform: scale(0.7);
+	}
+	
+			[data-carousel-3d] {width:180%;margin-left:-40%;}
+		[data-carousel-3d] [data-prev-button] {left:20%;}
+		[data-carousel-3d] [data-next-button] {right:20%;}
+
+}
+
+@media all and (max-width:540px)
+{
+	.footer-main .medium-10 .medium-4 {width:100%;text-align:center;padding-top:20px;}
+	.instagram-main {margin:0px auto;}
+	.logo {width:100%;}
+	.arabic {position:absolute;top:0px;right:20px;z-index:3;}
+	.contact-header {float:left;padding:20px 0px 10px 0px;}
+	.contact-header span {padding-left:5px;}
+	.social-links {padding:25px 10px 15px 0;}
+	.news-list .columns {background-size:120px 80%;background-position:0px center;background-repeat:no-repeat;}
+	
+	.logo span {padding-left:10px;padding-top:45px;width:160px;font-size:14px;}
+	.logo span strong {font-size:27px;}
+
+.slider-2-item .caption{padding:7px 15px;}
+	
+}
+
+@media all and (max-width:450px)
+{
+	.footer-copy *, .design {font-size:12px;}
+	.footer-copy .columns {padding:0px;}
+	.contact-header, .social-links {text-align:center;width:100%;padding:10px 0px 0px 0px;}
+	.contact-header a {text-align:center;}
+	.logo img {height:140;margin:20px 10px 10px 10px;}
+	.share-box h4 {font-size:16px;}
+	.page-banner {display:none;}
+}
+
+@media all and (max-width:400px)
+{
+	.footer-copy .columns span {display:block;text-align:center;}
+		.welcome-text h1 {font-size:23px;}
+		.news-list img {margin:15px  10px 15px 0px;}
+	.news-list .columns {background-size:120px 75%;background-position:0px center;background-repeat:no-repeat;}
+	.logo span {padding-top:55px;}
+	
+		.slider-2-item .caption h4 {font-size: 100%;}
+
+	
+
+}
+@media all and (max-width:340px)
+{
+	.logo span {padding-left:10px;padding-top:55px;width:140px;font-size:12px;}
+	.logo span strong {font-size:24px;}
+		.contact-box strong {font-size:18px;}
+
+}
+@media all and (max-width:320px)
+{
+		.welcome-text h1 {font-size:21px;}
+		.news-list img {margin:18px  10px 18px 0px;}
+		.contact-box strong {font-size:18px;}
+
+}
